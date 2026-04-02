@@ -8,6 +8,10 @@ Alya is designed to be easy and familiar to use while providing powerful feature
 
 Alya's UI is devoid of special effects and focues on high-performance and compatability, the most fancy thing is the main menu background. Once in game the UI is beautifully simple and stays out of your way.
 
+## Website
+
+You can visit the website [here](https://alya.thoq.dev)
+
 ## Notable Features
 - Powerful scripting API
 - Optimized
